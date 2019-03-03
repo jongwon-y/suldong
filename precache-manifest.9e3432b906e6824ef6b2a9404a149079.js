@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/suldong/static/js/runtime~main.6db8153c.js"
   },
   {
-    "revision": "2bbcf9f3bbb00480f0e3",
-    "url": "/suldong/static/js/main.2bbcf9f3.chunk.js"
+    "revision": "e776ee52db5ad7fbaf66",
+    "url": "/suldong/static/js/main.e776ee52.chunk.js"
   },
   {
     "revision": "d9d70c7cf35721592991",
     "url": "/suldong/static/js/2.d9d70c7c.chunk.js"
   },
   {
-    "revision": "2bbcf9f3bbb00480f0e3",
+    "revision": "e776ee52db5ad7fbaf66",
     "url": "/suldong/static/css/main.889a15fd.chunk.css"
   },
   {
-    "revision": "6567c6cfbfdb46c0186d8565403e5608",
+    "revision": "ac0216154f529e45a92c6f96395bec19",
     "url": "/suldong/index.html"
   }
 ];
