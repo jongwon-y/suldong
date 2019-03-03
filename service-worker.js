@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/suldong/precache-manifest.9e3432b906e6824ef6b2a9404a149079.js"
+  "/suldong/precache-manifest.a8de9fe2bdb936778103d5abe4dfbe7a.js"
 );
 
 workbox.clientsClaim();
